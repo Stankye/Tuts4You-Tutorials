@@ -1,7 +1,7 @@
 # Tuts4You-Tutorials
-All tutorials from tuts4you from the 2011 SiteRip
+All tutorials from tuts4you from the 2011 Site Rip
 
-Will be adding the rest of them with time.
+Will be adding the rest of them with time along with sorting them.
 
 Site Rip Credits: Teddy Rogers
 
